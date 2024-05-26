@@ -7,7 +7,12 @@
 - 📫 How to reach me: ahamed15-5553@diu.edu.bd
 - 😄 Pronouns: <b>Sabbir</b>
 
-
+<p align="center">
+  <h1 align="center">Connect with me:</h1>
+  <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <p align="center">
   <h1 align="center">Languages and Tools:</h1>
