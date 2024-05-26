@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,html,CSS,py,django,pycharm,wordpress,figma,xd,vscode,sublime,ps,java,github,eclipse" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,html,css,py,django,pycharm,wordpress,figma,xd,vscode,sublime,ps,java,github,eclipse" />
   </a>
 </p>
 <!--
