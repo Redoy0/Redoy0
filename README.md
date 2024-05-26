@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning <b>Machine Learning</b>
-- 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with Programming
-- 💬 Ask me about C,C++,Java,Python
+- 👯 I’m looking to collaborate on <b> Web Development</b>
+- 🤔 I’m looking for help with <b>Programming</b>
+- 💬 Ask me about <b>C,C++,Java,Python</b>
 - 📫 How to reach me: ahamed15-5553@diu.edu.bd
-- 😄 Pronouns: Sabbir
+- 😄 Pronouns: <b>Sabbir</b>
 
 
 
 <p align="center">
-  <h1>Languages and Tools:</h1>
+  <h1 align="center">Languages and Tools:</h1>
   <a href="https://github.com/Redoy0">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,html,css,py,django,pycharm,wordpress,figma,xd,vscode,sublime,ps,java,github,eclipse" />
   </a>
