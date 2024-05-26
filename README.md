@@ -8,10 +8,18 @@
 - 😄 Pronouns: <b>Sabbir</b>
 <h1 align="center">Connect with me:</h1>
 <p align="center">
- 
   <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+<!--  <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+ <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> -->
 </p>
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
