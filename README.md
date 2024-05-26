@@ -6,16 +6,16 @@
 - 💬 Ask me about <b>C,C++,Java,Python</b>
 - 📫 How to reach me: ahamed15-5553@diu.edu.bd
 - 😄 Pronouns: <b>Sabbir</b>
-
+<h1 align="center">Connect with me:</h1>
 <p align="center">
  
   <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
+<h1 align="center">Languages and Tools:</h1>
 <p align="center">
-  <h1 align="center">Languages and Tools:</h1>
+ 
   <a href="https://github.com/Redoy0">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,html,css,py,django,pycharm,wordpress,figma,xd,vscode,sublime,ps,java,github,eclipse" />
   </a>
