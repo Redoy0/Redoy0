@@ -20,12 +20,10 @@
   <a href="mailto:sabbirahamed.cse@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  <a href="https://github.com/Redoy0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
   <a href="https://www.facebook.com/SabbirAhamedRedoyRs" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/>
   </a>
+  
 
 
 </p>
