@@ -10,7 +10,7 @@
 
 ![Redoy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redoy0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redoy0&layout=compact&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redoy0&layout=compact&theme=radical)
 <h1 align="center">Connect with me:</h1>
 <p align="center">
   
