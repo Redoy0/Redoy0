@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-  <p>🚀 Passionate developer focused on innovative solutions and continuous learning</p>
+  <p>🚀 Tech enthusiast. Problem Solver. Developer.</p>
+  <p>I'm a passionate programmer and problem solver that enjoys breaking down difficult problems and coming up with creative solutions that stretch the bounds of what's possible.</p>
   
   <a href="https://www.linkedin.com/in/md-sabbir-ahamed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -80,8 +81,9 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redoy0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
+<!-- GitHub Streak Stats - Removed as it was not working -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redoy0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Redoy0&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 🌱 Currently...
