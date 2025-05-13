@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Md. Sabbir Ahamed</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00E1F7&center=true&vCenter=true&width=435&lines=Problem+Solver;Web+Design+&Developer;Flutter+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00E1F7&center=true&vCenter=true&width=435&lines=Problem+Solver;Web+Designer+&+Developer;Flutter+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
