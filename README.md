@@ -14,9 +14,7 @@
   <a href="mailto:sabbirahamed.cse@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="mailto:ahamed15-5553@diu.edu.bd">
-    <img src="https://img.shields.io/badge/Academic-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Academic Email"/>
-  </a>
+  
   <a href="https://sites.google.com/diu.edu.bd/sabbir-ahamed-rs/home" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
   </a>
