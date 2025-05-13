@@ -6,26 +6,30 @@
 - 💬 Ask me about <b>C,C++,Java,Python</b>
 - 📫 How to reach me: ahamed15-5553@diu.edu.bd
 - 😄 Pronouns: <b>Sabbir</b>
-<h1 align="center">Connect with me:</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-<!--  <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
- <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- <a href="https://www.linkedin.com/in/md-sabbir-ahamed/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> -->
-</p>
 ### 📊 GitHub Stats
 
 ![Redoy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redoy0&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redoy0&layout=compact&theme=radical)
+<h1 align="center">Connect with me:</h1>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/md-sabbir-ahamed/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sabbirahamed.cse@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Redoy0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/SabbirAhamedRedoyRs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/>
+  </a>
+
+
+</p>
+
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
  
