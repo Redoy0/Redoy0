@@ -96,7 +96,6 @@ me.say_hi()
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Redoy0&style=flat-square&color=blue" alt="Profile Views"/>
   
-  <h4>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</h4>
   <h4>💡 "The best way to predict the future is to invent it." – Alan Kay</h4>
   <h4>💡 "The art of programming is the skill of controlling complexity." – Marjin Haverbeke</h4>
 </div>
