@@ -1,11 +1,11 @@
 # <div align="center">👨‍💻 Md. Sabbir Ahamed</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00E1F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00E1F7&center=true&vCenter=true&width=435&lines=Problem+Solver;Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <p>🚀 Tech enthusiast. Problem Solver. Developer.</p>
+  
   <p>I'm a passionate programmer and problem solver that enjoys breaking down difficult problems and coming up with creative solutions that stretch the bounds of what's possible.</p>
   
   <a href="https://www.linkedin.com/in/md-sabbir-ahamed/" target="_blank">
