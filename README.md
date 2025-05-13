@@ -16,6 +16,9 @@
   <a href="mailto:ahamed15-5553@diu.edu.bd">
     <img src="https://img.shields.io/badge/Academic-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Academic Email"/>
   </a>
+  <a href="https://sites.google.com/diu.edu.bd/sabbir-ahamed-rs/home" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+  </a>
 </div>
 
 ## 💫 About Me
@@ -25,7 +28,7 @@ class Developer:
     def __init__(self):
         self.name = "Sabbir Ahamed"
         self.role = "Software Engineer"
-        self.languages = ["C", "C++", "Java", "Python"]
+        self.languages = ["C", "C++", "Java", "Python", "Dart"]
         self.currently_learning = "Machine Learning"
         self.looking_to_collaborate = "Web Development"
         self.seeking_help_with = "Programming"
@@ -47,11 +50,13 @@ me.say_hi()
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
   ### 🧰 Frameworks & Libraries
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   
   ### 🔧 Tools & Platforms
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,4 +97,6 @@ me.say_hi()
   <img src="https://komarev.com/ghpvc/?username=Redoy0&style=flat-square&color=blue" alt="Profile Views"/>
   
   <h4>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</h4>
+  <h4>💡 "The best way to predict the future is to invent it." – Alan Kay</h4>
+  <h4>💡 "The art of programming is the skill of controlling complexity." – Marjin Haverbeke</h4>
 </div>
