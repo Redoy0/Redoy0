@@ -25,11 +25,11 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Sabbir Ahamed"
+        self.name = "Md. Sabbir Ahamed"
         self.role = "Software Engineer"
         self.languages = ["C", "C++", "Java", "Python", "Dart"]
-        self.currently_learning = "Machine Learning"
-        self.looking_to_collaborate = "Web Development"
+        self.currently_learning = "Flutter Development"
+        self.looking_to_collaborate = "Flutter Development"
         self.seeking_help_with = "Programming"
         self.pronouns = "He/Him"
         
@@ -87,8 +87,8 @@ me.say_hi()
 ## 🌱 Currently...
 
 - 📚 Exploring the depths of **Machine Learning**
-- 🔍 Working on improving my **Full Stack Development** skills
-- 👯 Open to collaborate on interesting **Web Development** projects
+- 🔍 Working on improving my **Flutter Development** skills
+- 👯 Open to collaborate on interesting **Flutter Development** projects
 - 🤔 Looking for guidance with advanced **Programming** concepts
 
 ---
