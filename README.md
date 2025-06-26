@@ -1,12 +1,15 @@
-# <div align="center">👨‍💻 Md. Sabbir Ahamed</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sabbir+Ahamed!;Welcome+to+my+Profile!;" />
+</div>
+
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Redoy0&style=flat-square&color=blue" alt="Profile Views"/>
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00E1F7&center=true&vCenter=true&width=435&lines=Problem+Solver;Machine+Learning+Enthusiast;Web+Designer+Developer;Flutter+Developer;" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
+  <img src="https://komarev.com/ghpvc/?username=Redoy0&style=flat-square&color=blue" alt="Profile Views"/>
   <p>I'm a passionate programmer and problem solver that enjoys breaking down difficult problems and coming up with creative solutions that stretch the bounds of what's possible.</p>
   
   <a href="https://www.linkedin.com/in/md-sabbir-ahamed/" target="_blank">
@@ -82,7 +85,13 @@ me.say_hi()
 
 <!-- GitHub Streak Stats - Removed as it was not working -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Redoy0&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+  
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Redoy0&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <br>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redoy0&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  
 </div>
 
 ## 🌱 Currently...
@@ -95,8 +104,6 @@ me.say_hi()
 ---
 
 <div align="center">
-  
-  
   <h4>💡 "The best way to predict the future is to invent it." – Alan Kay</h4>
   <h4>💡 "The art of programming is the skill of controlling complexity." – Marjin Haverbeke</h4>
 </div>
