@@ -1,6 +1,7 @@
 # <div align="center">👨‍💻 Md. Sabbir Ahamed</div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Redoy0&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00E1F7&center=true&vCenter=true&width=435&lines=Problem+Solver;Machine+Learning+Enthusiast;Web+Designer+Developer;Flutter+Developer;" alt="Typing SVG" />
 </div>
 
@@ -94,7 +95,7 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Redoy0&style=flat-square&color=blue" alt="Profile Views"/>
+  
   
   <h4>💡 "The best way to predict the future is to invent it." – Alan Kay</h4>
   <h4>💡 "The art of programming is the skill of controlling complexity." – Marjin Haverbeke</h4>
