@@ -55,7 +55,11 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -216,10 +220,6 @@ me.say_hi()
   </a>
 </div> -->
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
 
 <!-- Footer with Wave Effect -->
 <div align="center">
