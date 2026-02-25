@@ -44,8 +44,8 @@ class Developer:
         self.name = "Md. Sabbir Ahamed"
         self.role = "Software Engineer"
         self.languages = ["C", "C++", "Java", "Python", "Dart"]
-        self.currently_learning = "Flutter Development"
-        self.looking_to_collaborate = "Flutter Development"
+        self.currently_learning = "Backend Development"
+        self.looking_to_collaborate = "Backend Development"
         self.seeking_help_with = "Programming"
         self.pronouns = "He/Him"
         
