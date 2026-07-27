@@ -94,51 +94,55 @@ me.say_hi()
 </div>
 
 <!-- GitHub Stats Section with Advanced Animations -->
-<h2 align="center">
+<!-- <h2 align="center">
   📈 GitHub Analytics 📊
-</h2>
+</h2> -->
 
-<br>
+<!-- <br>
 
-<div align="center">
+<div align="center"> -->
   
   <!-- GitHub Stats Card with Animation -->
+  <!--
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Redoy0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+  -->
   
   <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Redoy0&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" />
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Redoy0&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" />
+  
 
 </div>
 
 <br>
-
+-->
+<!--
 <div align="center">
   
-  <!-- Top Languages with Compact Layout -->
+  <!-- Top Languages with Compact Layout 
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redoy0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  
-  <!-- Activity Graph -->
+  -->
+  <!-- Activity Graph 
   <img width="57%" src="https://github-readme-activity-graph.vercel.app/graph?username=Redoy0&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&title_color=58A6FF" alt="Contribution Graph" />
 
 </div>
 
 <br>
 
-<!-- Detailed Language Stats -->
+<!-- Detailed Language Stats 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redoy0&theme=radical" alt="Profile Summary" width="98%" />
 </div>
 
 <br>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Redoy0&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%" />
 </div>
 
 <br>
 
-<!-- Additional Stats Cards -->
+<!-- Additional Stats Cards 
 <div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redoy0&theme=radical" alt="Repos per Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redoy0&theme=radical" alt="Most Commit Language" />
@@ -147,10 +151,12 @@ me.say_hi()
 
 <br>
 
-<!-- Divider -->
+<!-- Divider -
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
+-->
+
 
 ## 🌱 Currently...
 
